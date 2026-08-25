@@ -1,0 +1,12 @@
+{
+  "data-share": {
+    "shares": [
+      {
+        "name": "postgres-17"
+      },
+      {
+        "name": "postgres-17/data"
+      }
+    ]
+  }
+}
